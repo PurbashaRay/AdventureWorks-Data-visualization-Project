@@ -17,6 +17,6 @@ AdventureWorks Database (Microsoft SQL Server)
 VS Code/Jupyter Notebook 
 Data visualization techniques
 
-CONCLUSION
+**CONCLUSION**
 This group project provided hands-on experience with end-to-end data analytics using the AdventureWorks database.
 Working together allowed us to explore data comprehensively, solve analytical challenges as a team, and deliver actionable insights based on real-world business scenarios.
