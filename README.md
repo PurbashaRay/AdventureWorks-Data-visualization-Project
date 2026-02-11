@@ -1,4 +1,4 @@
-**PROJECT OVERVIEW**
+**PROJECT OVERVIEW** <br>
 This project was completed as a group project using the AdventureWorks demo database. 
 Together,we applied and strengthened the SQL, Python, and data analytics skills gained throughout the Data Analytics program. 
 As a team, we collaborated on exploring realistic business data, performing data extraction, cleaning, transformation, and generating meaningful insights.
