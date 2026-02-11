@@ -1,7 +1,7 @@
 **PROJECT OVERVIEW** <br>
-This project was completed as a group project using the AdventureWorks demo database. 
-Together,we applied and strengthened the SQL, Python, and data analytics skills gained throughout the Data Analytics program. 
-As a team, we collaborated on exploring realistic business data, performing data extraction, cleaning, transformation, and generating meaningful insights.
+This is a comprehensive and collaborative project leveraging the industry-standard Microsoft AdventureWorks database as a real-world business scenario.
+The project demonstrates teamwork in exploring realistic business data, performing data extraction, cleaning, and transformation processes, and generating meaningful insights through structured analysis.
+Using AdventureWorks as the foundation, we applied practical data analysis techniques to simulate real-world business intelligence workflows and decision-making processes
 
 **PROJECT OBJECTIVES** <br>
 Apply SQL skills to extract, join, filter, and group data.
