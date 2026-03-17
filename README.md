@@ -6,23 +6,30 @@ Using AdventureWorks as the foundation, we applied practical data analysis techn
 
 ## <u>PROJECT OBJECTIVES</u>
 
-Apply SQL skills to extract, join, filter, and group data.
-Use Python for data cleaning, transformation, and analysis.
-Explore real business scenarios through the AdventureWorks dataset.
-Generate meaningful insights to support decision-making.
-Demonstrate end-to-end data analytics capabilities.
+- Apply SQL to extract, join, filter, and aggregate data from relational tables.<br>
+- Use Python for data cleaning, transformation, and exploratory analysis.<br>
+- Analyze real-world business scenarios using the Microsoft AdventureWorks dataset.<br>
+- Generate actionable insights to support data-driven decision-making.<br>
+- Demonstrate end-to-end data analytics workflow from data processing to insight generation.<br>
+
+## <u>Key Business Questions</u>
+
+The analysis aims to answer the following:
+
+Q1.  What are the regional sales in the best performing country?<br> 
+Q2.  What is the relationship between annual leave taken and bonus? <br>
+Q3.  What is the relationship between Country and Revenue?  <br>
+Q4.  What is the relationship between sick leave and Job Title? <br>
+Q5.  What is the relationship between store trading duration and revenue? <br>
+Q6.  What is the relationship between the size of the stores, number of employees and revenue? <br>
 
 ## <u>TOOLS & TECHNOLOGY</u>
 
-SQL (queries, joins, aggregates, subqueries, CTEs)
-
-Python (Pandas, NumPy, Matplotlib/Seaborn for visualizations)
-
-AdventureWorks Database (Microsoft SQL Server)
-
-VS Code/Jupyter Notebook 
-
-Data visualization techniques
+- SQL (queries, joins, aggregates, subqueries, CTEs)<br>
+- Python (Pandas, NumPy, Matplotlib/Seaborn for visualizations)<br>
+- AdventureWorks Database (Microsoft SQL Server)<br>
+- SQL Server Management Studio<br>
+- VS Code/Jupyter Notebook <br>
 
 ## <u>CONCLUSION</u>
 
